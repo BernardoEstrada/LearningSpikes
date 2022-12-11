@@ -1,0 +1,8 @@
+# Remove files without extension
+*
+!/**/
+!*.*
+
+
+**/.DS_Store
+**/.DS_Store?

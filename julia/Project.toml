@@ -1,0 +1,6 @@
+name = "spike"
+uuid = "f4a41ba4-d1d9-4801-bc82-352cfd7b88c4"
+authors = ["Bernardo Estrada <estradaf.bernardo@gmail.com>"]
+version = "0.1.0"
+
+[deps]
